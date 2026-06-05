@@ -1,41 +1,43 @@
-## Hi everyone
+<!--## Hi everyone-->
 
+## <p align="center">Whoami</p>
 
-[![workflow](https://skillicons.dev/icons?i=arch,neovim,discord,github)](https://skillicons.dev)
-
-<p align="center">I'm currently studying</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,git" />
-  </a>
+  <samp>I'm a beginner developer with very limited IT knowledge. I'm slowly learning a couple of programming languages. I use Linux and occasionally deploy servers for personal use.</samp>
 </p>
 
+## Skills
 
-<p align="center">I only need to learn this because of university.</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
-  </a>
-</p>
-<p align="center">tools for university</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,visualstudio,powershell," />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
+**My "workflow"**
+<br/>
+[![Workfloe](https://go-skill-icons.vercel.app/api/icons?i=arch,neovim,discord,github)](https://go-skill-icons.vercel.app/)
+<br/>
 
-<!--
-**iwuslvt/iwuslvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm currently studying**
+<br/>
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=py,linux,git)](https://go-skill-icons.vercel.app/)
+</td>
+<td valign="top" width="50%">
 
-Here are some ideas to get you started:
+**💻 I study at a university**
+<br/>
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql)](https://go-skill-icons.vercel.app/)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤖 tools for university**
+<br/>
+[![UNTools](https://go-skill-icons.vercel.app/api/icons?i=windows,word,visualstudio,powershell)](https://go-skill-icons.vercel.app/)
+<br/>
+
+**🛠️ I would like to learn...**
+<br/>
+[![UNTools](https://go-skill-icons.vercel.app/api/icons?i=rust,go,docker)](https://go-skill-icons.vercel.app/)
+
+</td>
+</tr>
+</table>
+
