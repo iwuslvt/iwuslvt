@@ -1,12 +1,7 @@
 ## Hi everyone
 
 
-<p align="center">workflow</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,discord,github" />
-  </a>
-</p>
+[![workflow](https://skillicons.dev/icons?i=arch,neovim,discord,github)](https://skillicons.dev)
 
 <p align="center">I'm currently studying</p>
 <p align="center">
