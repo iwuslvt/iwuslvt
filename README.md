@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
   </a>
 </p>
-<p align="center">tools for university:</p>
+<p align="center">tools for university</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,visualstudio,powershell," />
