@@ -1,7 +1,8 @@
 ## Hi everyone
 
-I only need to learn this because of university.
+
 <p align="center">
+  I only need to learn this because of university.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,mysql" />
   </a>
