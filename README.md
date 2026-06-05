@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi everyone
+
+I only need to learn this because of university.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,mysql" />
+  </a>
+</p>
+
 
 <!--
 **iwuslvt/iwuslvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
