@@ -1,9 +1,31 @@
 ## Hi everyone
 
 
-<p align="center">I only need to learn this because of university.</p>
+<p align="center">workflow</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=arch,neovim,discord,github" />
+  </a>
+</p>
+
+<p align="center">I'm currently studying</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,git" />
+  </a>
+</p>
+
+
+<p align="center">I only need to learn this because of university.</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+  </a>
+</p>
+<p align="center">tools for university:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,visualstudio,powershell," />
   </a>
 </p>
 
